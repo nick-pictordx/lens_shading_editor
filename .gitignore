@@ -1,0 +1,12 @@
+.qmake.stash
+GLWidget.o
+MainWindow.o
+Makefile
+Translator.o
+lensshading.app/
+main.o
+moc_MainWindow.cpp
+moc_MainWindow.o
+moc_predefs.h
+ui_MainWindow.h
+ui_OpenDialog.h
